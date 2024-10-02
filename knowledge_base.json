@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "hi",
+      "answer": "hello!"
+    },
+    {
+      "question": "would you like to talk to me?",
+      "answer": "Yes Why not I alway there for you so you can share whatever you want."
+    },
+    {
+      "question": "how was your day?",
+      "answer": "It was fine What about yours?"
+    }
+  ]
+}
